@@ -48,8 +48,6 @@ Our robot is capable of complex articulated motions and precision manipulation, 
 
 | Folder        | Description                                      |
 |---------------|--------------------------------------------------|
-| `/code`       | Python scripts for control, IK, and communication |
-| `/firmware`   | Arduino code for servo and motor control         |
 | `/design_files` | CAD files (.STEP, .SLDPRT) and gripper models  |
 | `/images`     | Project-related images                           |
 | `/videos`     | Demo clips and testing footage                   |
