@@ -34,7 +34,7 @@ Our robot is capable of complex articulated motions and precision manipulation, 
 
 | Design | Build | Team |
 |--------|-------|------|
-| ![CAD Model](images/cad_model.png) | ![Final Arm](images/final_build.jpg) | ![Team](images/team_photo.jpg) |
+| ![CAD Model](images/1.png) | ![Final Arm](images/final_build.jpg) | ![Team](images/team_photo.jpg) |
 
 ---
 
